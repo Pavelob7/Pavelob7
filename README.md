@@ -28,8 +28,8 @@
 
 
 ### :fire: Статистика :
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=codeSTACKr">
+<p align = "center" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=codeSTACKr" padding = "20px">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&layout=compact&theme=codeSTACKr">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&layout=compact&theme=codeSTACKr" padding = "20px">
 </p>
