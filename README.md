@@ -3,7 +3,7 @@
 
 📫 Как связаться со мной:
 <br/>
-<a href="https://linktr.ee/pavelob7"> Кликни меня! </a>
+<a href="https://linktr.ee/pavelob7" target="_blank"> Кликни меня! </a>
 
 ### :hammer_and_wrench: Стек :
 
@@ -13,19 +13,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="JavaScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="Angular" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 
 </div>
 
 
-Here are some ideas to get you started:
+Кратко обо мне:
 
-- 🔭 I’m currently working with React Js
-- 🌱 I’m currently learning ContextAPI, React Native
-- 👯 I’m looking to collaborate on Web Developers
-- 💬 Ask me about anything tech <a href="mailto:egwuenuprecious7@gmail.com"> egwuenuprecious7@gmail.com</a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love watching movies and making programming contents
+- 👶 Я junior Frontend Developer
+- ⌨️ На данный момент работаю на Angular
+- 💻 Ищу работу Frontend разработчиком
+- 💬 Моя почта: <a href="mailto:cgr6915@gmail.com"> cgr6915@gmail.com</a>
+- 😄 Люблю: Чай, котиков, готовить, джаз. 
+- ⚡ Fun fact: Обожаю программировать и хочу уделять этому всё свое время
 
 
 ### :fire: Статистика :
