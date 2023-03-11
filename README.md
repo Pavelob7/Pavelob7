@@ -1,8 +1,8 @@
 ### Привет, Я Паша 👋
 #### Я Frontend Developer.
+<br/><br/><br/>
+### 📫 Как связаться со мной:
 
-📫 Как связаться со мной:
-<br/>
 #### <a href="https://linktr.ee/pavelob7" target="_blank">  КЛИКНИ МЕНЯ!</a>
 
 ### :hammer_and_wrench: Стек :
