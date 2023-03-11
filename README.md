@@ -14,7 +14,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-
 </div>
 
 
@@ -25,10 +24,12 @@
 - 💻 Ищу работу Frontend разработчиком
 - 💬 Моя почта: <a href="mailto:cgr6915@gmail.com"> cgr6915@gmail.com</a>
 - 😄 Люблю: Чай, котиков, готовить, джаз. 
-- ⚡ Fun fact: Обожаю программировать и хочу уделять этому всё свое время
+- ⚡ Fun fact: Обожаю программировать и хочу уделять этому всё свое время!
 
 
 ### :fire: Статистика :
-![Pavelob7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=tokyonight)
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=codeSTACKr">
 
-[![Pavelob7](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&layout=compact&theme=codeSTACKr">
+</p>
