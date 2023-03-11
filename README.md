@@ -3,7 +3,7 @@
 
 📫 Как связаться со мной:
 <br/>
-<a href="https://linktr.ee/pavelob7" target="_blank"> Кликни меня! </a>
+#### <a href="https://linktr.ee/pavelob7" target="_blank">  КЛИКНИ МЕНЯ!</a>
 
 ### :hammer_and_wrench: Стек :
 
