@@ -31,5 +31,5 @@
 <p align = "center" >
 <img src = "https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=codeSTACKr&line_height=27">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&theme=codeSTACKr">
+<img src = "">
 </p>
