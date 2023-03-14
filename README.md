@@ -27,7 +27,7 @@
 - ⚡ Fun fact: Обожаю программировать и хочу уделять этому всё свое время!
 
 
-### :fire: Статистика :
+### :fire: Статистика:
 <p align = "center" >
 <img src = "https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=codeSTACKr&line_height=27">
 
