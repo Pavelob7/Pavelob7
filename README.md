@@ -27,8 +27,6 @@
 
 
 ### :fire: Статистика:
-<p align = "center" >
-<img src = "https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&theme=codeSTACKr&line_height=27">
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&theme=codeSTACKr">
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Pavel's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&layout=compact&hide_border=true&bg_color=00000000&text_color=999" />
 </p>
