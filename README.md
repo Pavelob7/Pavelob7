@@ -1,33 +1,66 @@
-### Привет, Я Паша 👋
-#### Я Frontend Developer.
-
-### 📫 Как связаться со мной:
-
-#### <a href="https://linktr.ee/pavelob7" target="_blank">  КЛИКНИ МЕНЯ!</a>
-
-### :hammer_and_wrench: Стек :
-
-<div>       
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+    <h1> Hi, I'm Pasha 👋</h1>
+    <h3> I'm a Full Stack Dev.</h3>
+    </td>
+    <td style="border: none;">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWU4ZjBhMDR1MWlyejdkY2ZvbHV2cGYzMHlnMDFiM2hsbXplNDdqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1c8IA48wTVBtZ8uUer/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
 
 
-Кратко обо мне:
+### 🧐 More About Me:
+- 🔭   I’m currently working as a Software Engineer, specializing in C#, ASP.NET, and JavaScript
+- 🤝   I’m looking to collaborate on exciting projects that leverage my skills in full stack development
+- 🌱   I’m currently enhancing my expertise in Typescript and modern frontend technologies like React and Redux
+- 👨🏻‍💻   Most of my projects are available on [Github](https://github.com/Pavelob7?tab=repositories)
+- 💬   Ask me about anything tech-related, from backend development with C# to frontend frameworks like React
+- 📝   Checkout my [resume](https://drive.google.com/file/d/1_AIot8DQYJWk1CMqtjBpvZJhHQJTXv44/view?usp=sharing)
+- ⚡   Fun fact: I love programming so much that I wish to devote all my time to it!
+- 😄   I love: Tea, cats, cooking, and jazz.
 
-- 👶 Я junior Frontend Developer
-- ⌨️ На данный момент работаю на React
-- 💻 Ищу работу Frontend разработчиком
-- 💬 Моя почта: <a href="mailto:cgr6915@gmail.com"> cgr6915@gmail.com</a>
-- 😄 Люблю: Чай, котиков, готовить, джаз. 
-- ⚡ Fun fact: Обожаю программировать и хочу уделять этому всё свое время!
 
+### 📫 How to reach me:
+
+<a href="https://linktr.ee/pavelob7" target="_blank">
+<img src="src/clickme.png" alt="CLICK ME!" width="150" >
+</a>
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />
+<img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=5C2D91" alt="ESLint logo" title="ESLint" height="25" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+<img src="https://img.shields.io/badge/WebStorm-282C34?logo=WebStorm&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+
+
+
+
+<details>
+  <summary>A lil bit about me ...</summary><br/>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</details>
+
+
+### :fire:  Stats:
 [![codewars](https://www.codewars.com/users/Pavelob7/badges/large)](https://www.codewars.com/users/Pavelob7)  
-
-### :fire: Статистика:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pavelob7&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Pavel's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavelob7&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /> |
 | ------------- | ------------- |
