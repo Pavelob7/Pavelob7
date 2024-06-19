@@ -1,14 +1,9 @@
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-    <h1> Hi, I'm Pasha 👋</h1>
-    <h3> I'm a Full Stack Dev.</h3>
-    </td>
-    <td style="border: none;">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWU4ZjBhMDR1MWlyejdkY2ZvbHV2cGYzMHlnMDFiM2hsbXplNDdqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1c8IA48wTVBtZ8uUer/giphy.gif" width="250"/>
-    </td>
-  </tr>
-</table>
+## Hi, I'm Pasha 👋
+I excel in wearing multiple hats, seamlessly transitioning between roles like Full Stack Developer (C#, JavaScript) 🌐 and leveraging diverse technologies to create impactful solutions. I thrive on exploring new tech stacks 💻 and applying them to craft innovative projects 🛠️.
+
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWU4ZjBhMDR1MWlyejdkY2ZvbHV2cGYzMHlnMDFiM2hsbXplNDdqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1c8IA48wTVBtZ8uUer/giphy.gif" width="250"/>
+
+
 
 
 ### 🧐 More About Me:
