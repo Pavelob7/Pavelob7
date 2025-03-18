@@ -34,7 +34,6 @@ I'm a Frontend Developer who loves building interactive and visually appealing w
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/WebStorm-282C34?logo=WebStorm&logoColor=00CED8" alt="WebStorm logo" title="WebStorm" height="25" />
 
