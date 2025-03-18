@@ -7,13 +7,13 @@ I'm a Frontend Developer who loves building interactive and visually appealing w
 
 
 ### 🧐 More About Me:
-🔭 I’m currently working on frontend projects using React, Next.js, and TypeScript
-🎨 Passionate about UI/UX, animations, and modern web design
-📌 I love data visualization and building interactive dashboards
-👨🏻‍💻 Most of my projects are available on GitHub
-💬 Ask me about anything related to React, TypeScript, and frontend performance
-📝 Check out my resume
-⚡ Fun fact: I enjoy creating custom UI components just for fun 🎨
+- 🔭 I’m currently working on frontend projects using React, Next.js, and TypeScript
+- 🎨 Passionate about UI/UX, animations, and modern web design
+- 📌 I love data visualization and building interactive dashboards
+- 👨🏻‍💻 Most of my projects are available on GitHub
+- 💬 Ask me about anything related to React, TypeScript, and frontend performance
+- 📝 Check out my resume
+- ⚡ Fun fact: I enjoy creating custom UI components just for fun 🎨
 
 
 ### 📫 How to reach me:
